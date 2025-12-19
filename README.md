@@ -1,4 +1,6 @@
-# Expense Tracker
+# Expense Tracker Syntecxhub
+🔗 Live Demo:
+https://expense-tracker-syntecxhub-qzd43jfc0-javeriaispink14s-projects.vercel.app
 
 A modern, responsive expense tracking web application built with React. Track your expenses, set budgets, view summaries with charts, and manage your finances effectively.
 
